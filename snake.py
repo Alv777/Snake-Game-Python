@@ -168,6 +168,12 @@ while True:
 			# Hide Segments
 			for segment in segments:
 				segment.goto(1000,1000)
+    
+			# Reset Scoreboard
+			score = 0
+			text.clear()
+			text.write("Score: {}     High Score: {}".format(score, high_score),
+				align = "center", font =("Courier", 24, "normal"))
 
 			segments.clear()
 
