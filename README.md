@@ -14,7 +14,7 @@ W,A,S,D and arrows, to close the game simply close the tab.
 
 -----------------------------------------------------------
 
-For now it feels a bit laggy because it's turtle, i will try to make it but in pygame to get much higher framerate.
+For now it feels a bit laggy because it's made from turtle engine, i will try to make it but in pygame to get higher framerate.
 
 If you have questions about how i made it or something else don't be shy and go ahead, my email is business.alvkraft@gmail.com.
 
